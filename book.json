@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "theme-official",
         "theme-default",
         "customtheme",
         "extend-default-theme"
