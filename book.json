@@ -1,7 +1,6 @@
 {
     "plugins": [
         "theme-faq",
-        "extend-default-theme",
         "maxiang",
         "sellerui",
         "theme-default",
