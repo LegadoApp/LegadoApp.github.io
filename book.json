@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "customtheme"
+        "customtheme",
+        "extend-default-theme"
     ],
     "pluginsConfig": {}
 }
