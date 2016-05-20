@@ -45,8 +45,8 @@
   font-size: 1em;
 }
 .book.color-theme-1 .book-body {
-  color: #704214;
-  background: #f3eacb;
+  color: #faf3e9;
+  background: #faf3e9;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
   background: #f3eacb;
@@ -219,8 +219,8 @@
  * Theme 1
  */
 .book.color-theme-1 .book-summary {
-  color: #afa790;
-  background: #111111;
+  color: #faf3e9;
+  background: #faf3e9;
   border-right: 1px solid rgba(0, 0, 0, 0.07);
 }
 .book.color-theme-1 .book-summary .book-search {
