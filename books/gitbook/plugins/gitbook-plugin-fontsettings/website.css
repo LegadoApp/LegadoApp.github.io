@@ -2,8 +2,8 @@
  * Theme 1
  */
 .color-theme-1 .dropdown-menu {
-  background-color: #111111;
-  border-color: #7e888b;
+  background-color: #f1e8c5;
+  border-color: #603e21;
 }
 .color-theme-1 .dropdown-menu .dropdown-caret .caret-inner {
   border-bottom: 9px solid #111111;
@@ -49,7 +49,7 @@
   background: #faf3e9;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
-  background: #f3eacb;
+  background: #faf3e9;
 }
 .book.color-theme-2 .book-body {
   color: #bdcadb;
