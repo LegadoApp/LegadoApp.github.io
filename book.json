@@ -2,7 +2,8 @@
     "plugins": [
         "theme-official",
         "theme-default",
-        "customtheme"
+        "customtheme",
+        "extend-default-theme"
     ],
     "pluginsConfig": {}
 }
