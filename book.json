@@ -4,7 +4,8 @@
         "customtheme",
         "extend-default-theme",
         "maxiang",
-        "sellerui"
+        "sellerui",
+        "theme-default"
     ],
     "pluginsConfig": {}
 }
