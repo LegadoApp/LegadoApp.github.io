@@ -2,7 +2,6 @@
     "plugins": [
         "theme-faq",
         "maxiang",
-        "sellerui",
         "theme-default",
         "theme-official",
         "wabtheme",
