@@ -2,7 +2,8 @@
     "plugins": [
         "theme-faq",
         "customtheme",
-        "extend-default-theme"
+        "extend-default-theme",
+        "maxiang"
     ],
     "pluginsConfig": {}
 }
