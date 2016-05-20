@@ -1,8 +1,7 @@
 {
     "plugins": [
         "maxiang",
-        "theme-official",
-        "wabtheme"
+        "theme-official"
     ],
     "pluginsConfig": {}
 }
