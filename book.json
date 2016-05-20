@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-official",
-        "theme-default"
+        "theme-default",
+        "customtheme"
     ],
     "pluginsConfig": {}
 }
