@@ -2,7 +2,6 @@
     "plugins": [
         "theme-faq",
         "maxiang",
-        "theme-default",
         "theme-official",
         "wabtheme"
     ],
