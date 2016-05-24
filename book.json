@@ -1,7 +1,0 @@
-{
-    "plugins": [
-        "customtheme",
-        "extend-default-theme"
-    ],
-    "pluginsConfig": {}
-}
