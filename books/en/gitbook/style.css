@@ -759,9 +759,15 @@ table {
 	content:"\f098"
 }
 .fa-twitter:before {
+	position: fixed;
+	top: 20px;
+	right: 70px;
 	content:"\f099"
 }
 .fa-facebook:before {
+	position: fixed;
+	top: 20px;
+	right: 120px;
 	content:"\f09a"
 }
 .fa-github:before {
@@ -1635,6 +1641,9 @@ table {
 	content:"\f1de"
 }
 .fa-share-alt:before {
+	position: fixed;
+	top: 20px;
+	right: 20px;
 	content:"\f1e0"
 }
 .fa-share-alt-square:before {
@@ -1696,7 +1705,9 @@ table {
 	z-index:2;
 	font-size:.85em;
 	color:#7e888b;
-	background:0 0
+	background:white;
+	position: fixed;
+	width: 100%;
 }
 .book .book-header .btn {
 	display:block;
